@@ -13,7 +13,7 @@ name                     : &name "Hannah Bae"
 description              : &description "Welcome to my website! I am a Ph.D. candidate in the Department of Economics at UC San Diego."
 url                      : https://hannah-bae.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hannah-bae/academicpages.github.io"
+repository               : "hannah-bae/hannah-bae.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
