@@ -19,7 +19,6 @@ University of California, San Diego
 La Jolla, CA 92093-0508  
 hbae@ucsd.edu  
   
-
 ------
 **Working Papers**  
 Dependent Coverage and Parental “Job Lock”: Evidence from the Affordable Care Act (joint with Katherine Meckel)
