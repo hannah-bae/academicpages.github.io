@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+[Curriculum Vitae](https://drive.google.com/file/d/1an2pxRkhHRsIkmxxtVECu2PY6zXGQ7vm/view?usp=sharing)
+
 **Research interests**  
 Public Finance, Health Economics, Labor Economics
   
