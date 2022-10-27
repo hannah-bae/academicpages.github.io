@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<br/>
-Welcome to my website!  <br/><br/>
-I am a Ph.D. candidate in the Department of Economics at UC San Diego.  <br/><br/>
-[Curriculum Vitae](https://drive.google.com/file/d/1an2pxRkhHRsIkmxxtVECu2PY6zXGQ7vm/view?usp=sharing)  <br/><br/>
+Welcome to my website!  <br/>
+I am a Ph.D. candidate in the Department of Economics at UC San Diego.  <br/>
+[Curriculum Vitae](https://drive.google.com/file/d/1an2pxRkhHRsIkmxxtVECu2PY6zXGQ7vm/view?usp=sharing)  <br/>
   
-  
+------
 **Research interests**  
 Public Finance, Health Economics, Labor Economics  
 <br/>  
