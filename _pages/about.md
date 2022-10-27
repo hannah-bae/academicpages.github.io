@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-- Research interests: Public Finance, Health Economics, Labor Economics
+**Research interests**  
+Public Finance, Health Economics, Labor Economics
 
-- Contact Information 
+**Contact Information**
 Department of Economics  
 University of California, San Diego  
 9500 Gilman Drive  
