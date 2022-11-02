@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-------
+
 Welcome to my website!  
 
 I am a Ph.D. candidate in the Department of Economics at UC San Diego.  
