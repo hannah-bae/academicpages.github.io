@@ -28,13 +28,13 @@ hbae@ucsd.edu
     
 ------
 ### Working Papers
-[Dependent Coverage and Parental “Job Lock”: Evidence from the Affordable Care Act](https://www.nber.org/papers/w30200) (joint with Katherine Meckel)
+[Dependent Coverage and Parental “Job Lock”: Evidence from the Affordable Care Act](https://www.nber.org/papers/w30200) (joint with [Katherine Meckel](https://sites.google.com/view/katherinemeckel/home))
 Available as NBER Working Paper 30200  
 <br/>
 
 ### Publications
-[Changes in Early Labor Market Outcomes of among Young College Graduates in South Korea](https://journals.sagepub.com/doi/abs/10.1177/0002716220906779) (joint with Jaesung Choi) *The ANNALS of the American Academy of Political and Social Science*, 688(1), 115–136, April 2020  
+[Changes in Early Labor Market Outcomes of among Young College Graduates in South Korea](https://journals.sagepub.com/doi/abs/10.1177/0002716220906779) (joint with [Jaesung Choi](https://sites.google.com/site/jaesungchoiecon/)) *The ANNALS of the American Academy of Political and Social Science*, 688(1), 115–136, April 2020  
 
-[Analysis on the Supply of Private Supplementary Education in Seoul Using Administrative Data on Hagwon](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002136588) (joint with Sanggyun Moon & Jaesung Choi) *Survey Research*, 17(3), 81-108, August 2016 (in Korean) 
+[Analysis on the Supply of Private Supplementary Education in Seoul Using Administrative Data on Hagwon](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002136588) (joint with Sanggyun Moon & [Jaesung Choi](https://sites.google.com/site/jaesungchoiecon/)) *Survey Research*, 17(3), 81-108, August 2016 (in Korean) 
 
 
