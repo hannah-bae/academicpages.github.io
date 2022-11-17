@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
 
-Sitemap: https://hannah-bae.github.io
+Sitemap: https://hannah-bae.github.io/sitemap.xml
