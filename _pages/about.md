@@ -28,7 +28,7 @@ hbae@ucsd.edu
     
 ------
 ### Working Papers
-[Dependent Coverage and Parental “Job Lock”: Evidence from the Affordable Care Act](https://www.nber.org/papers/w30200) (joint with [Katherine Meckel](https://sites.google.com/view/katherinemeckel/home))
+[Dependent Coverage and Parental “Job Lock”: Evidence from the Affordable Care Act](https://www.nber.org/papers/w30200) (joint with [Katherine Meckel](https://sites.google.com/view/katherinemeckel/home) and [Maggie Shi](https://www.maggie-shi.com/))
 Available as NBER Working Paper 30200  
 <br/>
 
