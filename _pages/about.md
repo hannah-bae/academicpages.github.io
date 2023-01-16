@@ -30,6 +30,9 @@ hbae@ucsd.edu
 ### Working Papers
 [Dependent Coverage and Parental “Job Lock”: Evidence from the Affordable Care Act](https://www.nber.org/papers/w30200) (joint with [Katherine Meckel](https://sites.google.com/view/katherinemeckel/home) and [Maggie Shi](https://www.maggie-shi.com/))
 Available as NBER Working Paper 30200  
+
+Remote Monitoring of Implantable Cardiac Electronic Devices in South Korea: Rationale and Design of a Remote Care Study (joint with [YouMi Hwang](https://www.cmcvincent.or.kr/page/en/doctor/91/D0000323) 
+
 <br/>
 
 ### Publications
