@@ -12,7 +12,7 @@ $(document).ready(function(){
   bumpIt();
 
   $(window).resize(function() {
-    didResize = true;
+    didResize = false;  ## originally true
   });
   setInterval(function() {
     if (didResize) {
