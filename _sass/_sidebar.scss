@@ -25,7 +25,7 @@
   }
 
 
-  @include breakpoint($x-large) {
+  @include breakpoint($profile-size) {
     padding-right: 0;
   }
 
