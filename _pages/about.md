@@ -33,6 +33,8 @@ Available as NBER Working Paper 30200
 
 Remote Monitoring of Implantable Cardiac Electronic Devices in South Korea: Rationale and Design of a Remote Care Study (joint with [YouMi Hwang](https://www.cmcvincent.or.kr/page/en/doctor/91/D0000323)) 
 
+Remote Monitoring of Cardiac Implantable Electronic Devices in South Korea: Results of a Remote Care Study (joint with [YouMi Hwang](https://www.cmcvincent.or.kr/page/en/doctor/91/D0000323))
+
 <br/>
 
 ### Publications
