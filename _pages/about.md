@@ -34,7 +34,7 @@ Available as NBER Working Paper 30200
 <br/>
 
 ### Publications
-[The First Remote Monitoring Experience in South Korea: Results of a Remote-Care Study](https://academic.oup.com/europace/article/25/6/euad150/7192809) (joint with [YouMi Hwang](https://www.cmcvincent.or.kr/page/en/doctor/91/D0000323)) 
+[The First Remote Monitoring Experience in South Korea: Results of a Remote-Care Study](https://academic.oup.com/europace/article/25/6/euad150/7192809) (joint with [YouMi Hwang](https://www.cmcvincent.or.kr/page/en/doctor/91/D0000323)) *EP Europace*, 25(6), June 2023.
 
 [Changes in Early Labor Market Outcomes of among Young College Graduates in South Korea](https://journals.sagepub.com/doi/abs/10.1177/0002716220906779) (joint with [Jaesung Choi](https://sites.google.com/site/jaesungchoiecon/)) *The ANNALS of the American Academy of Political and Social Science*, 688(1), 115–136, April 2020  
 
