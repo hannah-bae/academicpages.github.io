@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the Department of Economics at UC San Diego.
 [Curriculum Vitae](https://drive.google.com/file/d/1W8q1vlXk6IzKPLw_fQh2VBF9bhvxZ26_/view?usp=sharing) <br/>  
   
 ### Research interests
-Public Finance, Health Economics, Labor Economics  
+Health Economics, Public Finance, Labor Economics  
 <br/>  
 
 ### Contact Information
