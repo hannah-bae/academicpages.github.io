@@ -45,6 +45,7 @@ hbae@ucsd.edu
 
 [Analysis on the Supply of Private Supplementary Education in Seoul Using Administrative Data on Hagwon](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002136588)  <br> 
 &nbsp;&nbsp; Joint with Sanggyun Moon & [Jaesung Choi](https://sites.google.com/site/jaesungchoiecon/)  <br> 
-&nbsp;&nbsp; *Survey Research*, 17(3), 81-108, August 2016 (in Korean) 
+&nbsp;&nbsp; *Survey Research*, 17(3), 81-108, August 2016 (in Korean) <br> 
+&nbsp;&nbsp; <sub> Media coverage: Kyunghyang (경향신문) [1](https://v.daum.net/v/XYdrXz6hpO), [2](https://www.khan.co.kr/national/national-general/article/202211201613001)  </sub>	
 
 
