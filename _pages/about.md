@@ -19,7 +19,7 @@ Please visit [https://acsweb.ucsd.edu/~hbae](https://acsweb.ucsd.edu/~hbae) duri
  <!-- ### Research interests
 Health Economics, Public Finance, Labor Economics  
 <br/>  
- --->
+
   
 ### Contact Information
 Department of Economics  
@@ -28,7 +28,6 @@ University of California, San Diego
 La Jolla, CA 92093-0508  
 hbae@ucsd.edu  
 
- <!--
 ------
 ### Working Papers
 [Dependent Insurance Coverage and Parental Job Mobility: Evidence from the Affordable Care Act](https://drive.google.com/file/d/1Ug0I3FoB3KRlzlfQ6twlaqStWNm8aQSo/view?usp=sharing), *submitted* <br> 
