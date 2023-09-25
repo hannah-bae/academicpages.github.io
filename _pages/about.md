@@ -11,7 +11,7 @@ redirect_from:
 
 I am an applied microeconomist whose research lies at the intersection of health economics and public economics.
 
-Please visit [https://acsweb.ucsd.edu/~hbae](https://acsweb.ucsd.edu/~hbae) during the 2023-24 job market.
+Please visit [https://acsweb.ucsd.edu/~hbae](https://acsweb.ucsd.edu/~hbae) during the 2023-2024 job market.
 
 
 <!--
