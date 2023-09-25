@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 
-Welcome to my website!  
+I am an applied microeconomist whose research lies at the intersection of health economics and public economics.
 
-I am a Ph.D. candidate in the Department of Economics at UC San Diego.  
+Please visit https://acsweb.ucsd.edu/~hbae during the 2023-24 job market.
 
+<!--
 [Curriculum Vitae](https://drive.google.com/file/d/1BGDjd2L6y94iG0cASbyH4p1C_4l2hXax/view?usp=sharing) <br/>  
   
 ### Research interests
@@ -47,5 +48,5 @@ hbae@ucsd.edu
 &nbsp;&nbsp; Joint with Sanggyun Moon & [Jaesung Choi](https://sites.google.com/site/jaesungchoiecon/)  <br> 
 &nbsp;&nbsp; *Survey Research*, 17(3), 81-108, August 2016 (in Korean) <br> 
 &nbsp;&nbsp; <sub> Media coverage: Kyunghyang (경향신문) [1](https://v.daum.net/v/XYdrXz6hpO), [2](https://www.khan.co.kr/national/national-general/article/202211201613001)  </sub>	
-
+--->
 
