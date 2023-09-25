@@ -14,9 +14,9 @@ I am an applied microeconomist whose research lies at the intersection of health
 Please visit [https://acsweb.ucsd.edu/~hbae](https://acsweb.ucsd.edu/~hbae) during the 2023-24 job market.
 
 
-<!--[Curriculum Vitae](https://drive.google.com/file/d/1BGDjd2L6y94iG0cASbyH4p1C_4l2hXax/view?usp=sharing) <br/>  --->
-  
- <!-- ### Research interests
+<!--
+[Curriculum Vitae](https://drive.google.com/file/d/1BGDjd2L6y94iG0cASbyH4p1C_4l2hXax/view?usp=sharing) <br/>  
+ ### Research interests
 Health Economics, Public Finance, Labor Economics  
 <br/>  
 
