@@ -11,22 +11,24 @@ redirect_from:
 
 I am an applied microeconomist whose research lies at the intersection of health economics and public economics.
 
-Please visit https://acsweb.ucsd.edu/~hbae during the 2023-24 job market.
+Please visit [https://acsweb.ucsd.edu/~hbae](https://acsweb.ucsd.edu/~hbae) during the 2023-24 job market.
 
-<!--
-[Curriculum Vitae](https://drive.google.com/file/d/1BGDjd2L6y94iG0cASbyH4p1C_4l2hXax/view?usp=sharing) <br/>  
+
+<!--[Curriculum Vitae](https://drive.google.com/file/d/1BGDjd2L6y94iG0cASbyH4p1C_4l2hXax/view?usp=sharing) <br/>  --->
   
-### Research interests
+ <!-- ### Research interests
 Health Economics, Public Finance, Labor Economics  
 <br/>  
-
+ --->
+  
 ### Contact Information
 Department of Economics  
 University of California, San Diego  
 9500 Gilman Drive  
 La Jolla, CA 92093-0508  
 hbae@ucsd.edu  
-    
+
+ <!--
 ------
 ### Working Papers
 [Dependent Insurance Coverage and Parental Job Mobility: Evidence from the Affordable Care Act](https://drive.google.com/file/d/1Ug0I3FoB3KRlzlfQ6twlaqStWNm8aQSo/view?usp=sharing), *submitted* <br> 
