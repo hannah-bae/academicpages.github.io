@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hannah Bae - UC San Diego"
+title                    : "Hannah Bae"
 title_separator          : "-"
 name                     : &name "Hannah Bae"
 description              : &description "Welcome to my website! I am a Ph.D. candidate in the Department of Economics at UC San Diego."
