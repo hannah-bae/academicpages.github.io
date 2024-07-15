@@ -9,22 +9,26 @@ redirect_from:
 ---
 
 
-Please visit [https://acsweb.ucsd.edu/~hbae](https://acsweb.ucsd.edu/~hbae) during the 2023-2024 job market.
+<!-- Please visit [https://acsweb.ucsd.edu/~hbae](https://acsweb.ucsd.edu/~hbae) during the 2023-2024 job market. -->
 
+Welcome! I am a Postdoctoral Scholar in the Department of Surgery at Stanford University. Starting from August 2025, I will be an Assistant Professor in the Department of Economics at Michigan State University.
 
-<!--
-[Curriculum Vitae](https://drive.google.com/file/d/1BGDjd2L6y94iG0cASbyH4p1C_4l2hXax/view?usp=sharing) <br/>  
- ### Research interests
+[Curriculum Vitae](https://drive.google.com/file/d/1ca31ytZXJzzvyLlxUO1XTGKTxNcp4SQa/view?usp=sharing) <br/>  
+
+Email: hbae94@stanford.edu
+
+### Research interests
 Health Economics, Public Finance, Labor Economics  
 <br/>  
 
-  
+<!--  
 ### Contact Information
 Department of Economics  
 University of California, San Diego  
 9500 Gilman Drive  
 La Jolla, CA 92093-0508  
 hbae@ucsd.edu  
+
 
 ------
 ### Working Papers
