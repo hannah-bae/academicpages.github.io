@@ -18,14 +18,14 @@ I am a Postdoctoral Scholar in the Department of Surgery at Stanford University.
 I completed my PhD in Economics at UC San Diego in June 2024.
 
 
-[Curriculum vitae](https://drive.google.com/file/d/1ca31ytZXJzzvyLlxUO1XTGKTxNcp4SQa/view?usp=sharing) <br/>
+[Curriculum Vitae](https://drive.google.com/file/d/1ca31ytZXJzzvyLlxUO1XTGKTxNcp4SQa/view?usp=sharing) <br/>
 
-[Research statement](https://drive.google.com/file/d/1ouRL11Iwp0Ft80AdhdPKIfD9kbh8_uG5/view?usp=sharing) <br/>
+[Research Statement](https://drive.google.com/file/d/1ouRL11Iwp0Ft80AdhdPKIfD9kbh8_uG5/view?usp=sharing) <br/>
 
 Email: [hannahbae.econ@gmail.com](hannahbae.econ@gmail.com) <br/>
 
 
-### Research interests
+### Research Interests
 Health Economics, Public Finance, Labor Economics  
 <br/>  
 
