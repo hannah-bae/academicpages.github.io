@@ -84,10 +84,10 @@ author:
   avatar           : "profile.jpg"
   bio              : ""
   location         : #"Location"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=xjHQDxoAAAAJ
-  email            :
+  email            : "hannahbae.econ@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
