@@ -12,7 +12,7 @@ redirect_from:
 <!-- Please visit [https://acsweb.ucsd.edu/~hbae](https://acsweb.ucsd.edu/~hbae) during the 2023-2024 job market. -->
 Welcome! <br>
 
-I am a Postdoctoral Scholar in the Department of Surgery at Stanford University. In August 2025, I will join the Department of Economics at Michigan State University as an 1855 Assistant Professor. 
+I am a Postdoctoral Scholar in the Department of Surgery at Stanford University. In August 2025, I will join the Department of Economics at Michigan State University as an Assistant Professor. 
 
 I earned my PhD in Economics from UC San Diego in June 2024.
 
