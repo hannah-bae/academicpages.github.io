@@ -10,7 +10,6 @@ redirect_from:
 
 
 <!-- Please visit [https://acsweb.ucsd.edu/~hbae](https://acsweb.ucsd.edu/~hbae) during the 2023-2024 job market. -->
-
 Welcome! <br>
 
 I am a Postdoctoral Scholar in the Department of Surgery at Stanford University. Starting from August 2025, I will be an Assistant Professor in the Department of Economics at Michigan State University. 
@@ -20,7 +19,7 @@ I completed my PhD in Economics at UC San Diego in June 2024.
 
 [Curriculum Vitae](https://drive.google.com/file/d/1ca31ytZXJzzvyLlxUO1XTGKTxNcp4SQa/view?usp=sharing) <br/>
 
-[Research Statement](https://drive.google.com/file/d/1ouRL11Iwp0Ft80AdhdPKIfD9kbh8_uG5/view?usp=sharing) <br/>
+[Research Statement](https://drive.google.com/file/d/1ouRL11Iwp0Ft80AdhdPKIfD9kbh8_uG5/view?usp=sharing) [Teaching Statement](https://drive.google.com/file/d/1bPnHH7eB1uwvSMIxzbCo9k79mKYkpPlx/view?usp=sharing)  <br/>
 
 Email: [hannahbae.econ@gmail.com](hannahbae.econ@gmail.com) <br/>
 
