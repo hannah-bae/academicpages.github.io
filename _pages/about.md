@@ -25,24 +25,21 @@ Email: [hannahbae.econ@gmail.com](hannahbae.econ@gmail.com) <br/>
 Health Economics, Public Finance, Labor Economics  
 <br/>  
 
-<!--  
-### Contact Information
-Department of Economics  
-University of California, San Diego  
-9500 Gilman Drive  
-La Jolla, CA 92093-0508  
-hbae@ucsd.edu  
-
-
 ------
 ### Working Papers
-[Dependent Insurance Coverage and Parental Job Mobility: Evidence from the Affordable Care Act](https://drive.google.com/file/d/1Ug0I3FoB3KRlzlfQ6twlaqStWNm8aQSo/view?usp=sharing), *Revise and Resubmit,  Journal of Public Economics* <br> 
+[Dependent Insurance Coverage and Parental Job Mobility: Evidence from the Affordable Care Act](https://drive.google.com/file/d/1Ug0I3FoB3KRlzlfQ6twlaqStWNm8aQSo/view?usp=sharing)  
 &nbsp;&nbsp; Joint with [Katherine Meckel](https://sites.google.com/view/katherinemeckel/home) and [Maggie Shi](https://www.maggie-shi.com/) <br> 
+&nbsp;&nbsp; *Revise and Resubmit,  Journal of Public Economics* <br> 
 &nbsp;&nbsp; [NBER Working Paper](https://www.nber.org/papers/w30200) 
 
-<br/>
+[Can Redrawing Boundaries Save Lives? Evidence from a Reform of the Kidney Allocation System (JMP)](https://drive.google.com/file/d/169UxNYS6t4bF6jUMlnFWGxc5UUgZ4D0u/view)   <br>
 
-### Publications
+[Quality Labeling and Allocation of Scarce Organs](https://drive.google.com/file/d/1Omou5akAZGOouOdbmhs73iYySHApNzmq/view)   <br>
+
+Economic Evaluation of Remote Monitoring for Implantable Cardiac Devices: Evidence from a Clinical Trial in Korea <br>
+&nbsp;&nbsp; Joint with [YouMi Hwang](https://www.cmcvincent.or.kr/page/en/doctor/91/D0000323)  <br> 
+
+### Selected Publications
 [The First Remote Monitoring Experience in South Korea: Results of a Remote-Care Study](https://academic.oup.com/europace/article/25/6/euad150/7192809)  <br> 
 &nbsp;&nbsp; Joint with [YouMi Hwang](https://www.cmcvincent.or.kr/page/en/doctor/91/D0000323)  <br> 
 &nbsp;&nbsp; *EP Europace*, 25(6), June 2023.
@@ -55,5 +52,5 @@ hbae@ucsd.edu
 &nbsp;&nbsp; Joint with Sanggyun Moon & [Jaesung Choi](https://sites.google.com/site/jaesungchoiecon/)  <br> 
 &nbsp;&nbsp; *Survey Research*, 17(3), 81-108, August 2016 (in Korean) <br> 
 &nbsp;&nbsp; <sub> Media coverage: Kyunghyang (경향신문) [1](https://v.daum.net/v/XYdrXz6hpO), [2](https://www.khan.co.kr/national/national-general/article/202211201613001)  </sub>	
---->
+
 
