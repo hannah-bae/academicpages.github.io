@@ -36,7 +36,7 @@ hbae@ucsd.edu
 
 ------
 ### Working Papers
-[Dependent Insurance Coverage and Parental Job Mobility: Evidence from the Affordable Care Act](https://drive.google.com/file/d/1Ug0I3FoB3KRlzlfQ6twlaqStWNm8aQSo/view?usp=sharing), *submitted* <br> 
+[Dependent Insurance Coverage and Parental Job Mobility: Evidence from the Affordable Care Act](https://drive.google.com/file/d/1Ug0I3FoB3KRlzlfQ6twlaqStWNm8aQSo/view?usp=sharing), *Revise and Resubmit,  Journal of Public Economics* <br> 
 &nbsp;&nbsp; Joint with [Katherine Meckel](https://sites.google.com/view/katherinemeckel/home) and [Maggie Shi](https://www.maggie-shi.com/) <br> 
 &nbsp;&nbsp; [NBER Working Paper](https://www.nber.org/papers/w30200) 
 
