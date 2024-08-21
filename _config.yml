@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Hannah Bae"
 title_separator          : "-"
-name                     : &name "Hannah Bae"
-description              : &description "Welcome to my website! I am a Ph.D. candidate in the Department of Economics at UC San Diego."
+name                     : &name ""
+description              : &description ""
 url                      : https://hannah-bae.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hannah-bae/hannah-bae.github.io"
@@ -87,7 +87,7 @@ author:
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #https://scholar.google.com/citations?user=xjHQDxoAAAAJ
-  email            :  #"hannahbae.econ@gmail.com"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"hannahbae_econ"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
