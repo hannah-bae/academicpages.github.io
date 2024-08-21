@@ -27,12 +27,12 @@ Health Economics, Public Finance, Labor Economics
 
 ------
 ### Working Papers
-[Dependent Insurance Coverage and Parental Job Mobility: Evidence from the Affordable Care Act](https://drive.google.com/file/d/1SLRB30TJ344J8YarH0BfIG8CNil2B6cR/view)  
+[Dependent Insurance Coverage and Parental Job Lock: Evidence from the Affordable Care Act](https://drive.google.com/file/d/1SLRB30TJ344J8YarH0BfIG8CNil2B6cR/view)  
 &nbsp;&nbsp; Joint with [Katherine Meckel](https://sites.google.com/view/katherinemeckel/home) and [Maggie Shi](https://www.maggie-shi.com/) <br> 
-&nbsp;&nbsp; *Revise and Resubmit,  Journal of Public Economics* <br> 
+&nbsp;&nbsp; Revise and Resubmit,  *Journal of Public Economics* <br> 
 &nbsp;&nbsp; [NBER Working Paper](https://www.nber.org/papers/w30200) 
 
-[Can Redrawing Boundaries Save Lives? Evidence from a Reform of the Kidney Allocation System (JMP)](https://drive.google.com/file/d/169UxNYS6t4bF6jUMlnFWGxc5UUgZ4D0u/view)   <br>
+[Can Redrawing Boundaries Save Lives? Evidence from a Reform of the Kidney Allocation System](https://drive.google.com/file/d/169UxNYS6t4bF6jUMlnFWGxc5UUgZ4D0u/view)   <br>
 
 [Quality Labeling and Allocation of Scarce Organs](https://drive.google.com/file/d/1Omou5akAZGOouOdbmhs73iYySHApNzmq/view)   <br>
 
