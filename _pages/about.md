@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+Please visit my new [website](https://sites.google.com/view/hannahbae/).
 
-<!-- Please visit [https://acsweb.ucsd.edu/~hbae](https://acsweb.ucsd.edu/~hbae) during the 2023-2024 job market. -->
+<!-- Please visit [https://acsweb.ucsd.edu/~hbae](https://acsweb.ucsd.edu/~hbae) during the 2023-2024 job market. 
+<!-- 
 Welcome! <br>
 
 I am a Postdoctoral Scholar in the Department of Surgery at Stanford University. In August 2025, I will join the Department of Economics at Michigan State University as an Assistant Professor. 
@@ -53,4 +55,4 @@ Economic Evaluation of Remote Monitoring for Implantable Cardiac Devices: Eviden
 &nbsp;&nbsp; *Survey Research*, 17(3), 81-108, August 2016 (in Korean) <br> 
 &nbsp;&nbsp; <sub> Media coverage: Kyunghyang (경향신문) [1](https://v.daum.net/v/XYdrXz6hpO), [2](https://www.khan.co.kr/national/national-general/article/202211201613001)  </sub>	
 
-
+-->
